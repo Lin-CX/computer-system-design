@@ -1,0 +1,5 @@
+# Homework 4 introduction
+
+与作业3一样也是LED的循环闪烁，只是闪烁间隔不像作业3中由switch设置，而是根据terminal中的操作界面用键盘输入选择闪烁时间间隔。
+
+uart_echo和uart_hello_using_macro两个文件夹是设置文件，里面放的是各种地址和配置等，无视即可。
