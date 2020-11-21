@@ -5,8 +5,8 @@
 
 # 一些截图
 这是macro宏的主体文件
-![image]()
+![image](https://github.com/Lin-CX/computer-system-design/blob/main/hw5-InfoMacro/macro.jpg)
 
 
 这是在main文件中引用的样子
-![image]()
+![image](https://github.com/Lin-CX/computer-system-design/blob/main/hw5-InfoMacro/macroInMain.jpg)
