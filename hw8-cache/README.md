@@ -6,4 +6,4 @@ c代码中for完成后LED灯才会切换。通过switch打开和关闭cache。
 打开cache后C代码中的循环变快所以LED闪烁频率也变高。具体情况可以参考视频文件里的demo部分。
 
 for循环代码
-![image](https://github.com/Lin-CX/computer-system-design/blob/main/hw8-cache/hw8for.png)
+![image](./hw8for.png)
