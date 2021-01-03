@@ -1,8 +1,8 @@
 # Mini OS
 
-### Intro.
+### Introduction
 
-An embedded miniOS scheduling 3 tasks.
+* Run the tasks continuously in around-robin fashion, one at a time, on Zynq. Each application runs forever.
 
 - **Hardware** [Zynq-7000 XC7Z020-CLG484-1](http://www.zedboard.org/product/zedboard)
 
@@ -15,16 +15,14 @@ An embedded miniOS scheduling 3 tasks.
 
     - **Task1** Selection Sorting
 
-        	Its outcome is displayed on LEDs.
+        > Selection-sorting. Its outcome is displayed on LEDs.
 
     - **Task2** DhryStone Benchmark
 
-        	Used to measure the CPU performance
-	
-        	Some messages will be printed on UART console.
+        > Use DhryStone Benchmark to measure the CPU performance and printed via UART after execution.
 
     - **Task3** Hello World
 
-        	Output to UART console.
+        > Print ‘Hello World’ by send data to UART console.  
 
-- **Scheduling Algorithm** Round-Robin
+- Read PDF file to check detail description.
