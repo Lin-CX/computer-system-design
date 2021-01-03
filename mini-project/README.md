@@ -1,5 +1,5 @@
 # Mini-project introduction
-[English README](https://github.com/Lin-CX/computer-system-design/blob/main/mini-project/Eng_readme/README.md)
+**You can check [English README](https://github.com/Lin-CX/computer-system-design/blob/main/mini-project/Eng_readme/README.md) to read README English version.**
 
 
 
