@@ -1,9 +1,14 @@
 # Mini-project introduction
-Project 内容：  
-通过interrupt实现三个tasks的循环不停地运行。  
-三个tasks分别实现内容是：  
-task1：选择排序。 结果通过LED显示。  
-task2：运行DhryStone Benchmark，其中会运行各种functions。运行结束后会在terminal上显示Task2 finished。  
+Project 内容：
+
+通过interrupt实现三个tasks的循环不停地运行。 
+
+三个tasks分别实现内容是：
+
+task1：选择排序。 结果通过LED显示。
+
+task2：运行DhryStone Benchmark，其中会运行各种functions。运行结束后会在terminal上显示Task2 finished。
+
 task3：Hello World的显示
 
 # 实现过程
